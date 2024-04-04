@@ -72,7 +72,7 @@ function TicTacToe() {
         </div>
         {
           gameOver && (
-            <button onClick={resetGame} className="reset-button">
+            <button onClick={resetGame} className="reset-button mt-3">
               Start New Game
             </button>
           )
