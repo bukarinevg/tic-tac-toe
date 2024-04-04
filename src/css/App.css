@@ -43,6 +43,10 @@
   grid-gap: 0;
 }
 
+.field:focus {
+  outline-width: 0;
+}
+
 .field {
   -webkit-appearance: none; 
   border-radius: 0;     
