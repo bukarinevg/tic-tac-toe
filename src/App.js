@@ -6,6 +6,7 @@ import './css/App.css';
 
 
 function App() {
+  console.log('gotch ya!');
   return (
     <StrictMode>
       <Board />
